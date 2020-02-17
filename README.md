@@ -1,2 +1,2 @@
 # UnityShaders
-Some Unity shader (modified or created from scratch)
+Some Unity shaders (modified or created from scratch)
